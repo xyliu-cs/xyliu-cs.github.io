@@ -40,3 +40,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* 1. Declare the fonts */
+@font-face {
+  font-family: "LXGW WenKai";
+  src: url("/assets/fonts/lxgw/LXGWWenKai-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* (repeat for Bold/Light if you copied them) */
+
+/* 2. Style the Chinese name */
+.author__name--zh {
+  font-family: "LXGW WenKai", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 90%;
+  margin-top: -0.25rem;
+}

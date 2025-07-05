@@ -23,7 +23,8 @@ repository               : "xyliu-cs/xyliu-cs.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiaoyuan Liu<br><span style='font-size:90%;font-family:\"Noto Serif SC\",SimHei,sans-serif;'>刘效源</span>"
+  name             : "Xiaoyuan Liu"
+  name_zh          : "刘效源" # Chinese name, if applicable
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in CUHK-Shenzhen"
   location         : #"Earth"
