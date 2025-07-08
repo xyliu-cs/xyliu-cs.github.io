@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD student in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2029 (expected)
+* Ph.D. student in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2029 (Expected)
 * B.Eng. in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2024
-  * cGPA: 3.7/4.0 (top 10%)
+  * GPA: 3.7/4.0 (top 10%)
   * Bachelor-Ph.D. Class
-* Exchange Student, School of Computer Science and Engineering, Nanyang Technological University, 2024
+* Exchange Student, Nanyang Technological University, 2024
 
 Internships
 ======
