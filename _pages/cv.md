@@ -34,19 +34,13 @@ Scholarships
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+Please see the Publication page
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please see the Teaching page
 
 
 Service
 ======
-* ARR Reviewer
-* TOSEM Reviewer
+Please see the Service page

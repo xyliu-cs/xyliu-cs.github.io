@@ -5,6 +5,6 @@ permalink: /service/
 author_profile: false
 ---
 
-## Reviwer
+## Reviewer
 - ACL Rolling Review
 - ACM Transactions on Software Engineering and Methodology (TOSEM)
