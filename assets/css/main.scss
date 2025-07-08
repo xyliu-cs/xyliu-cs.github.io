@@ -52,7 +52,7 @@
 
 /* (repeat for Bold/Light if you copied them) */
 
-/* 2. Style the Chinese name */
+/* Chinese Font */
 .author__name--zh {
   display: block;
   font-family: "LXGW WenKai", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -60,6 +60,7 @@
   margin-top: 0.35rem;
 }
 
+/* Paper Badges */
 .acl-badge {
   display: inline-block;
   background-color: #cc4100;
@@ -80,4 +81,12 @@
   font-size: 0.85em;
   font-weight: bold;
   font-family: sans-serif;
+}
+
+/* Profile Photo */
+.author__avatar img {
+  border: none !important;         /* kills the colored frame */
+  border-radius: 0 !important;     /* 0 = square; use 4px if you want subtle rounding   */
+  box-shadow: none !important;     /* removes drop-shadow     */
+  background: transparent !important;
 }
