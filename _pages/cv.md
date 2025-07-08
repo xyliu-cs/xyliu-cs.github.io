@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2029 (expected)
+* PhD student in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2029 (expected)
 * B.Eng. in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2024
+  * cGPA: 3.7/4.0 (top 10%)
+  * Bachelor-Ph.D. Class
 * Exchange Student, School of Computer Science and Engineering, Nanyang Technological University, 2024
 
 Internships
@@ -34,13 +36,14 @@ Scholarships
 
 Publications
 ======
-Please see the Publication page
+Please see the [Publication](https://xyliu-cs.github.io/pubs/) page
+
 
 Teaching
 ======
-Please see the Teaching page
+Please see the [Teaching](https://xyliu-cs.github.io/teaching/) page
 
 
 Service
 ======
-Please see the Service page
+Please see the [Service](https://xyliu-cs.github.io/service/) page
