@@ -59,3 +59,25 @@
   font-size: 90%;
   margin-top: 0.35rem;
 }
+
+.acl-badge {
+  display: inline-block;
+  background-color: #cc4100;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.arxiv-badge {
+  display: inline-block;
+  background-color: #e0e0e0;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
