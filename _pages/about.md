@@ -13,8 +13,11 @@ Currently, I am a research intern at [Tencent AI Lab](https://ailab.tencent.com/
 My current research focuses on improving the reasoning capabilities of Large Language Models and developing insightful evaluation protocols to benchmark their performance.
 
 
-<div style="margin-top: 10rem; float:left;">
+<div style="margin-top: 10rem; display:inline-block;">
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=386&t=n&d=i_mnc2Ovc6Uiext34nnZ4oAne7PbSHpX8-0KYIAbrPg&co=c0c0c0&cmo=ff9999&cmn=cc0000&ct=000000'></script>
 </div>
 
-<div style="clear:both;"></div>
+<!-- Force MapMyVisitors' internal div to drop its margin:auto -->
+<style>
+  #mapmyvisitors { margin: 0 !important; }
+</style>

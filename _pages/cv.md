@@ -15,7 +15,7 @@ Education
 * B.Eng. in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2024
   * GPA: 3.7/4.0 (top 10%)
   * Bachelor-Ph.D. Class
-* Exchange Student, Nanyang Technological University, 2024
+* Exchange Student, Nanyang Technological University, 2023
 
 Internships
 ======
