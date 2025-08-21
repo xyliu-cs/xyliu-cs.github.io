@@ -6,4 +6,4 @@ author_profile: false
 ---
 
 ## Teaching Assistant
-* CSC4001 Software Engineering (CUHK-Shenzhen, Spring 2026, Expected)
+* CSC1001 Introduction to Computer Science: Programming Methodology (CUHK-Shenzhen, Fall 2026)

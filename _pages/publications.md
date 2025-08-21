@@ -17,7 +17,11 @@ author_profile: false
     _<u>Xiaoyuan Liu</u>, Wenxuan Wang, Youliang Yuan, Jen-tse Huang, Qiuzhi Liu, Pinjia He, Zhaopeng Tu_  
     \[[paper](http://arxiv.org/abs/2410.08145)\] \[[code](https://github.com/xyliu-cs/ConflictVIS)\]
 
-## Collaborative
+## Co-author
+
+- <span class="emnlp-badge">EMNLP 25</span> **AI Sees Your Location---But With A Bias Toward The Wealthy World**  
+    _Jingyuan Huang, Jen-tse Huang, Ziyi Liu, <u>Xiaoyuan Liu</u>, Wenxuan Wang, Jieyu Zhao_  
+    \[[paper](https://arxiv.org/abs/2502.11163)\] \[[code](https://github.com/limenlp/FairLocator)\]
 
 - <span class="acl-badge">ACL 25</span> **Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**  
     _Wenxuan Wang, <u>Xiaoyuan Liu</u>, Kuiyi Gao, Jen-tse Huang, Youliang Yuan, Pinjia He, Shuai Wang, Zhaopeng Tu_  
