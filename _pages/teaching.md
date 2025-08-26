@@ -5,5 +5,5 @@ permalink: /teaching/
 author_profile: false
 ---
 
-## Teaching Assistant
-* CSC1001 Introduction to Computer Science: Programming Methodology (CUHK-Shenzhen, Fall 2026)
+## Teaching Assistant (CUHK-Shenzhen)
+* CSC1001 Introduction to Computer Science: Programming Methodology (SDS, Fall 2026)
