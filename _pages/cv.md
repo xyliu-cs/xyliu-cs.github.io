@@ -19,19 +19,20 @@ Education
 
 Internships
 ======
-* **August 2024 - Present**: Research Intern
+* **Aug. 2024 - Present**: Research Intern
   * Tencent AI Lab
   * Shenzhen
 
-* **August 2023**: Summer Intern (STEM Internship Scheme) 
+* **Aug. 2023 - Sep. 2023**: Summer Intern (Hong Kong STEM Internship Scheme) 
   * Hong Kong Productivity Council
   * Hong Kong
 
 
 Scholarships
 ======
-* Merit Scholarship (Ph.D. Admission)
-* Academic Performance Scholarship (Undergraduate)
+* Merit Scholarship (Ph.D. Admission, ¥230,000/Yr)
+* Academic Performance Scholarship (Undergraduate, ¥40,000)
+* Undergraduate Research Award (Undergraduate, ¥1,000/Mo)
 
 
 Publications
