@@ -94,6 +94,15 @@
   font-family: "Times New Roman", Times, serif;
 }
 
+/* Inline university logos sized to the text line */
+.uni-logo {
+  height: 1em;           /* match current font size */
+  width: auto;           /* keep aspect ratio */
+  vertical-align: -0.15em; /* nudge down to sit on baseline; tweak -0.1 ~ -0.25em if needed */
+  margin-right: 0.35em;  /* small gap before the name */
+  display: inline-block;
+}
+
 /* Profile Photo */
 .author__avatar img {
   border: none !important;         /* kills the colored frame */
