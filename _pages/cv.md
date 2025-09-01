@@ -17,7 +17,7 @@ Education
   <img src="{{ '/images/cuhk.png' | relative_url }}" class="uni-logo" alt="CUHK-Shenzhen logo"> _The Chinese University of Hong Kong, Shenzhen_
   * GPA: 3.7/4.0 (top 10%)
   * Bachelor-Ph.D. Class
-* Exchange Student, <img src="{{ '/images/ntu.png' | relative_url }}" class="uni-logo" alt="NTU logo"> Nanyang Technological University, 2023
+* Exchange Student, <img src="{{ '/images/ntu.png' | relative_url }}" class="uni-logo" alt="NTU logo"> _Nanyang Technological University_, 2023
 
 Internships
 ======
