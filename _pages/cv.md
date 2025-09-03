@@ -22,11 +22,11 @@ Education
 Internships
 ======
 * **Aug. 2024 - Present**: Research Intern
-  * Tencent AI Lab
+  * <img src="{{ '/images/tencent_ai_lab.png' | relative_url }}" class="uni-logo" alt="Tencent AI Lab logo"> Tencent AI Lab
   * Shenzhen
 
 * **Aug. 2023 - Sep. 2023**: Summer Intern (Hong Kong STEM Internship Scheme) 
-  * Hong Kong Productivity Council
+  * <img src="{{ '/images/hkpc.png' | relative_url }}" class="uni-logo" alt="HKPC logo"> Hong Kong Productivity Council
   * Hong Kong
 
 
