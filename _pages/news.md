@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: false
 ---
+## 09/2025 🔥
+- 2 papers are accepted by NeurIPS 2025 and I feel really happy about that
 
 ## 08/2025 🔥
 - Invited talk on "Undergraduate Research" at School of Data Science, CUHK-Shenzhen [[post](https://mp.weixin.qq.com/s/qKPM5xWGKIoiZPcDa1lLfg)]

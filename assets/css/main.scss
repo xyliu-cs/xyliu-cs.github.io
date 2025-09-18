@@ -94,6 +94,17 @@
   font-family: "Times New Roman", Times, serif;
 }
 
+.neurips-badge {
+  display: inline-block;
+  background-color: #4169e1; /* royal blue */
+  color: white;
+  padding: 1px 6px;
+  border-radius: 0px;
+  font-size: 0.75em;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
 /* Inline university logos sized to the text line */
 .uni-logo {
   height: 1em;           /* match current font size */

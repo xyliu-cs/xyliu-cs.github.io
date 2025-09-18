@@ -9,7 +9,7 @@ author_profile: false
 
 ## First Author
 
-- <span class="arxiv-badge">Arxiv 25</span> **Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**  
+- <span class="neurips-badge">NeurIPS 25</span> **Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**  
     _<u>Xiaoyuan Liu</u>, Tian Liang, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He, Zhaopeng Tu, Haitao Mi, Dong Yu_  
     \[[paper](http://arxiv.org/abs/2505.13445)\] \[[code](https://github.com/xyliu-cs/RISE)\]
 
