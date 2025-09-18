@@ -15,7 +15,7 @@ Education
   <img src="{{ '/images/cuhk.png' | relative_url }}" class="uni-logo" alt="CUHK-Shenzhen logo"> _The Chinese University of Hong Kong, Shenzhen_
 * B.Eng. in Computer Science and Engineering, 2024  
   <img src="{{ '/images/cuhk.png' | relative_url }}" class="uni-logo" alt="CUHK-Shenzhen logo"> _The Chinese University of Hong Kong, Shenzhen_
-  * GPA: 3.7/4.0 (top 10%)
+  * GPA: 3.7/4.0 (top 10%), First Class Honors
   * Bachelor-Ph.D. Class
 * Exchange Student, <img src="{{ '/images/ntu.png' | relative_url }}" class="uni-logo" alt="NTU logo"> _Nanyang Technological University_, 2023
 

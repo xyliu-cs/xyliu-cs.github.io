@@ -5,7 +5,7 @@ permalink: /pubs/
 author_profile: false
 ---
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my full articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 ## First Author
 
