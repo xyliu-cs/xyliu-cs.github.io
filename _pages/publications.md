@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Publications"
+title: "Selected Publications"
 permalink: /pubs/
 author_profile: false
 ---
