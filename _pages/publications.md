@@ -9,7 +9,7 @@ author_profile: false
 
 ## First Author
 
-- <span class="arxiv-badge">Under Review</span> The Pensieve Paradigm: Stateful Language Models with Learned Memory Management  
+- <span class="arxiv-badge">Under Review</span> **The Pensieve Paradigm: Stateful Language Models with Learned Memory Management**  
     _<u>Xiaoyuan Liu</u>, Tian Liang, Dongyang Ma, Deyu Zhou, Haitao Mi, Pinjia He, Yan Wang_  
 
 - <span class="neurips-badge">NeurIPS 25</span> **Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**  
